@@ -1,0 +1,43 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"SmartNav" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\BSP.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\Gps.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\hwsetup.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\Sim900.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\Sim900.h" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\TCP.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\CreateObj.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\CreateObj.h" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\MainForm.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\MainForm.h" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\xEvent.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\main.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\resetprg.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\RPDL\Interrupt_INTC.c" 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\SmartNav.h" 
+[WORKSPACE_FILE_STATES]
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\CreateObj.c" 0 0 840 360 0 5 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\CreateObj.h" 0 0 901 507 0 10 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\MainForm.c" 88 140 840 360 0 7 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\MainForm.h" 66 105 840 360 0 6 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\Display\xEvent.c" 66 105 840 360 0 8 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\RPDL\Interrupt_INTC.c" 88 140 1038 360 0 14 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\SmartNav.h" 110 175 689 444 0 12 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\BSP.c" 0 0 901 507 0 4 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\Gps.c" 88 140 840 380 0 9 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\Sim900.c" 0 0 980 507 0 3 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\Sim900.h" -4 -36 980 507 1 11 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\TCP.c" 0 0 936 560 0 2 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\bsp\hwsetup.c" 66 105 869 327 0 13 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\main.c" 22 35 562 360 0 1 
+"D:\Working project\Smart Navigation\Smart Navigation(h)\test4\resetprg.c" 0 0 558 356 0 0 
+[LOADED_PROJECTS]
+"SmartNav" 
+[END]
